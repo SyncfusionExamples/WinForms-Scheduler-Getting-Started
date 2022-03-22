@@ -14,25 +14,15 @@ The Scheduler for Windows Forms has day, week, work week, month, and custom [vie
 ### Rich User Experience
 The user interface is very interactive and lets users perform operations like [creating](https://help.syncfusion.com/windowsforms/scheduler/getting-started#insert?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [editing](https://help.syncfusion.com/windowsforms/scheduler/getting-started#modify?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), and rescheduling appointments. Set appointment reminders to notify upcoming appointments.  
 
-### Highly Customizable
-The WinForms Scheduler can easily be customized based on the requirement. Time intervals for appointments can also be customized. Provide a unique and consistent look to your scheduler with [appearance customization](https://help.syncfusion.com/windowsforms/scheduler/customizing-appearance?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples) using styles, data templates, and themes.
-
-### Recurrence Patterns
-Specify daily, weekly, monthly, and yearly recurrence patterns for appointments.
-
-### High-Performance
-The feature-rich WinForms Scheduler can easily handle a large number of appointments. 
-
-### Localization
-All visible strings in the user interface can be localized to any desired language.
-
 ### Themes
 The WinForms Scheduler control comes with a large number of themes to quickly create elegant interfaces that look and feel like Windows, Office, Outlook, and other popular platforms.
 
 ## Related links
-[Learn More about WinForms Schedule Control](https://www.syncfusion.com/winforms-ui-controls/scheduler?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
+[Learn More about WinForms Scheduler](https://www.syncfusion.com/winforms-ui-controls/scheduler?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
 
 [Documentation](https://help.syncfusion.com/windowsforms/schedule/overview?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
+
+[Download Free Trial](https://www.syncfusion.com/downloads/windowsforms?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
 
 [Release History](https://help.syncfusion.com/windowsforms/release-notes/v19.4.0.43?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
 
@@ -44,11 +34,15 @@ The WinForms Scheduler control comes with a large number of themes to quickly cr
 
 [Pricing](https://www.syncfusion.com/sales/products/windowsforms?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
 
+[Community Forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
+
+[Knowledge base](https://www.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)
+
 ## About Syncfusion WinForms UI Controls
 Syncfusion's [WinForms UI Controls](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples) library is the only suite that you will ever need to build an application since it contains over 100 high-performance, lightweight, modular, and responsive UI Controls in a single package. In addition to Scheduler, we provide popular WinForms Controls such as [DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Charts](https://www.syncfusion.com/winforms-ui-controls/chart?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Diagram](https://www.syncfusion.com/winforms-ui-controls/diagram?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), and [Syntax editor](https://www.syncfusion.com/winforms-ui-controls/syntax-editor?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples).
 
 ## About Syncfusion
-Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 26,000+ customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
 Today, we provide 1700+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Angular](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [React](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Vue](https://www.syncfusion.com/vue-ui-components?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [WPF](https://www.syncfusion.com/wpf-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples), and [MAUI(Preview)](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=winforms-scheduler-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
 
